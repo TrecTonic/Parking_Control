@@ -91,7 +91,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           child: Text('Home'),
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(10),
-                            color: Colors.grey[300],
+                            color: Color.fromARGB(255, 12, 225, 126),
                           ),
                           padding: EdgeInsets.all(10),
                         ),
@@ -123,7 +123,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           child: Text('Cart'),
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(10),
-                            color: Colors.grey[300],
+                            color: Color.fromARGB(255, 240, 7, 221),
                           ),
                           padding: EdgeInsets.all(10),
                         ),
